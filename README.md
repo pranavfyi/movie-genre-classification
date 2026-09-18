@@ -138,3 +138,12 @@ The training script generates 7 plots:
 - Add multi-label classification (movies can have multiple genres)
 - Use word embeddings (Word2Vec, GloVe) instead of TF-IDF
 - Use a bigger dataset for better accuracy
+
+
+## Live Demo / Deployment
+
+A live deployment of this Streamlit app is available at:
+
+https://movie-genre-classification-001.streamlit.app/
+
+Feel free to try the web interface to input plot descriptions and get genre predictions.
